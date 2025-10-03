@@ -1,4 +1,4 @@
-# AI Anthropic Claude with Nodejs(Ts) and Guard Rails
+## AI Anthropic Claude with Nodejs(Ts) and Guard Rails
 
 A example of how we can connect with anthropic claude with nodejs(typescript) and how we can create some types of guard rails for  protect our app of alucination
 
